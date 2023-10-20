@@ -17,10 +17,10 @@ https://github.com/rui775/react-time-counter/assets/64076622/178f8e8f-5baa-4af3-
  </a>
  <a href="https://getbootstrap.com/" target="_blank"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
- </a>&nbsp&nbsp
+ </a>
  <a href="https://www.w3schools.com/js/" target="_blank"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
- </a>&nbsp&nbsp 
+ </a>
  <a href="https://react.dev/" target="_blank"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
  </a>
