@@ -1,0 +1,22 @@
+.mainSection{
+    margin-top: 1rem;
+    width: 40rem;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    font-size: xx-large;
+}
+.badgeDiv {
+    margin-left: 1.8rem;
+}
+.badgeIcon {
+    height: 100%;
+    align-items: center;
+    display: flex;
+}
+.badgeDescription {
+    font-size: large;
+}
+.buttonClass {
+    margin-top: 0.5rem;
+}
