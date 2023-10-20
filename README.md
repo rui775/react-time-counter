@@ -3,8 +3,9 @@
 This project aims to everyone who want to know a basic time counter or if you want to use it you are at will.
 
 ## Working example
-
-<video src="https://github.com/rui775/react-time-counter/assets/64076622/178f8e8f-5baa-4af3-998f-15cd04a5f0da">
+<div align="center">
+  <video src="https://github.com/rui775/react-time-counter/assets/64076622/178f8e8f-5baa-4af3-998f-15cd04a5f0da width="400" />
+</div>
 
 ## Languages and technologies used
 
