@@ -3,7 +3,10 @@
 This project aims to everyone who want to know a basic time counter or if you want to use it you are at will.
 
 ## Working example
-https://github.com/rui775/react-time-counter/assets/64076622/178f8e8f-5baa-4af3-998f-15cd04a5f0da
+
+<p align="center">
+  <video src="[myvideo.mp4](https://github.com/rui775/react-time-counter/assets/64076622/178f8e8f-5baa-4af3-998f-15cd04a5f0da)" width=400/>
+<p/>
 
 ## Languages and technologies used
 
